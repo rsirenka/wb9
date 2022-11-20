@@ -1,20 +1,6 @@
-.wrapper{
-    height: 500px;
+.header{
+    background-color: whitesmoke;
     display: flex;
-}
-.left{
-    height: 400px;
-    width: 60%;
-    background-color: coral;
-}
-.right{
-    height: 400px;
-    width: 40%;
-    background-color: rgb(53,6,89);
-    color: aliceblue;
-}
-@media screen and (max-width:500px) {
-    .wrapper{
-        display: block;
-    }
+    justify-content: center;
+    border: 1px solid black;
 }
