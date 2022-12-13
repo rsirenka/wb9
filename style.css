@@ -4,3 +4,39 @@
     justify-content: center;
     border: 1px solid black;
 }
+.verx{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.content{
+    margin: auto;
+    padding: 7px;
+    width: 60%;
+    border: 1px solid black;
+}
+.leftreklama{
+    margin: 10px;
+    width: 20%;
+}
+.rek{
+    text-align: center;
+}
+
+.list > ol > li > img {
+    width: 17px;
+    height: 17px;
+}
+.list2 > ul > li > img{
+    width: 17px;
+    height: 17px;
+}
+.list2{
+    border: 1px solid black
+}
+ol{
+    border: 1px solid black;
+}
+ul{
+    list-style-type: none;
+}
